@@ -1,0 +1,8 @@
+Hello my name is Eric Hodge.
+
+I love to program.
+My favorite language is Python because it is versitile and widely used.
+
+I have a dog named Ume.
+I have a cat named Lolo.
+I have a child named Arwen.
